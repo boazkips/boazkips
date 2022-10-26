@@ -1,4 +1,3 @@
-**Hello there** :nerd_face: <br>
 I am [**Boaz Kiptoo**](https://boazkips.netlify.app), a **T-shaped** software developer based in nairobi **Kenya**.<br>
 cs50 Alumni at Havardx program, Introduction to computer science and a Bsc. Electronics and Microprocessor at The University of Nairobi. Am passionate about technology and new advancements in science, my passion is driven by the urge to offer solutions to problems in the tech world.<br>
 I simply think, eat, sleep and dream **code** :smiley:. <br> 
